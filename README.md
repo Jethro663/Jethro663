@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jethro663
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning Backend Developer things
+- 💞️ I’m looking to collaborate on small projects for experience
